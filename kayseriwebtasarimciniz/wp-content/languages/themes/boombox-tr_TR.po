@@ -1,0 +1,4111 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Project-Id-Version: Boombox\n"
+"POT-Creation-Date: 2017-03-12 19:07+0000\n"
+"PO-Revision-Date: 2017-06-24 23:22+0000\n"
+"Last-Translator: admin <info@ismeteroglu.com>\n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: tr-TR"
+
+#: buddypress/activity/index.php:131
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: buddypress/activity/index.php:151 buddypress/groups/single/activity.php:12
+msgid "RSS Feed"
+msgstr ""
+
+#: buddypress/activity/index.php:151 buddypress/groups/single/activity.php:12
+msgid "RSS"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:60
+msgid "BuddyPress Legacy"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:400
+msgid "Kick and ban this member"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:400
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: buddypress/members/register.php:86 buddypress/members/register.php:96
+#: buddypress/members/register.php:106 buddypress/members/register.php:117
+msgid "*"
+msgstr ""
+
+#: buddypress/members/register.php:270
+msgid "Blog URL"
+msgstr ""
+
+#: buddypress/members/single/messages/messages-loop.php:86
+msgid "From"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:393
+#: includes/admin/activation/class-tgm-plugin-activation.php:912
+#: includes/admin/activation/class-tgm-plugin-activation.php:2618
+#: includes/admin/activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:394
+#: includes/admin/activation/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:395
+#: includes/admin/activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:1019
+#: includes/admin/activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:1206
+#: includes/admin/activation/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3594
+#: includes/admin/activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3594
+#: includes/admin/activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/admin/activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:19
+msgid "BoomBox Theme Extensions"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:30
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:41
+#: includes/plugins/one-click-demo-import.php:148
+#: includes/plugins/one-click-demo-import.php:153
+msgid "Zombify"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:52
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:57
+msgid "Mashshare Share Buttons"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:62
+msgid "AdSense Integration WP QUADS"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:67
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:72
+msgid "BuddyPress"
+msgstr ""
+
+#: includes/admin/activation/plugins-activation.php:77
+msgid "Wordpress Social Login"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:533
+#: includes/admin/customizer/customizer.php:555
+#: includes/admin/customizer/customizer.php:576
+#: includes/admin/customizer/customizer.php:606
+msgid "Media"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:534
+#: includes/admin/customizer/customizer.php:556
+#: includes/admin/customizer/customizer.php:572
+#: includes/admin/customizer/customizer.php:602
+msgid "Subtitle"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:535
+#: includes/admin/customizer/customizer.php:557
+#: includes/admin/customizer/customizer.php:573
+#: includes/admin/customizer/customizer.php:603
+msgid "Author"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:536
+#: includes/admin/customizer/customizer.php:558
+#: includes/admin/customizer/customizer.php:574
+#: includes/admin/customizer/customizer.php:604
+msgid "Date"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:537
+#: includes/admin/customizer/customizer.php:559
+msgid "Excerpt (for Classic Listing Types)"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:538
+#: includes/admin/customizer/customizer.php:560
+#: includes/admin/customizer/customizer.php:579
+#: includes/admin/customizer/customizer.php:609
+#: includes/admin/customizer/design-badges.php:19
+msgid "Badges"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:539
+#: includes/admin/customizer/customizer.php:561
+msgid "Post Type Badges"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:578
+#: includes/admin/customizer/customizer.php:608
+msgid "Views"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:580
+#: includes/admin/customizer/customizer.php:610
+msgid "Tags"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:581
+#: includes/admin/customizer/customizer.php:611
+msgid "Author Info"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:582
+#: includes/admin/customizer/customizer.php:612
+msgid "Reactions"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:583
+#: includes/admin/customizer/customizer.php:613
+msgid "Subscribe Form"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:584
+#: includes/admin/customizer/customizer.php:614
+msgid "WP Navigation"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:585
+#: includes/admin/customizer/customizer.php:615
+msgid "WP Comments"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:586
+#: includes/admin/customizer/customizer.php:616
+msgid "Floating Navbar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:587
+#: includes/admin/customizer/customizer.php:617
+msgid "Top Sharebar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:588
+#: includes/admin/customizer/customizer.php:618
+msgid "Sticky Top Sharebar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:589
+#: includes/admin/customizer/customizer.php:619
+msgid "Bottom Sharebar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:590
+#: includes/admin/customizer/customizer.php:620
+msgid "Next / Prev Buttons"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:591
+#: includes/admin/customizer/customizer.php:621
+msgid "Side Navigation"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:632
+msgid "Four Column"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:633
+msgid "Grid"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:634
+#: includes/front/front-functions.php:1998
+msgid "List"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:635
+msgid "List 2 ( small list )"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:636
+msgid "Classic"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:637
+msgid "Classic 2 ( fixed height )"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:638
+msgid "Stream ( gif's & memes )"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:649
+#: includes/admin/customizer/design-header.php:267
+#: includes/admin/customizer/design-header.php:293
+msgid "Left"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:650
+#: includes/admin/customizer/design-header.php:269
+#: includes/admin/customizer/design-header.php:295
+msgid "Right"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:662
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:663
+msgid "Infinite Scroll (first load via click)"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:664
+msgid "Numbering"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:677
+msgid "Recent"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:678
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:216
+msgid "Featured"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:702
+msgid "Most Shared"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:726
+msgid "Numeric List"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:727
+msgid "Three Column (Secondary Sidebar)"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:728
+msgid "None ( Show Page Content )"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:754
+msgid "Universal Webfonts"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:762
+#: includes/authentication/auth.php:33
+msgid "Google"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:809
+msgid "Latin"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:810
+msgid "Latin Extended"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:811
+msgid "Cyrillic"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:812
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:813
+msgid "Greek"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:814
+msgid "Greek Extended"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:815
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:827
+#: includes/admin/customizer/customizer.php:840
+msgid "Inject Into Posts List"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:853
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:854
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:855
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:868
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:58
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:68
+msgid "Customizer Global Value"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:905
+msgid "1 Featured With Newsletter"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:906
+msgid "2 Featured"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:907
+msgid "3 Featured"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:913
+msgid "Image ratio is 1:3"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:914
+msgid "Post has content"
+msgstr ""
+
+#: includes/admin/customizer/customizer.php:928
+msgid "Must be a positive number."
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:39
+msgid "Badges Positions On Post Thumbnail"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:44
+msgid "Outside Left"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:45
+msgid "Outside Right"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:46
+msgid "Inside Left"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:47
+msgid "Inside Right"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:67
+msgid "Reactions Badges"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:86
+msgid "Hide Reactions Badges"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:108
+msgid "Reactions Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:129
+msgid "Reactions Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:149
+msgid "Reactions Type"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:156
+msgid "Face-Text"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:157
+msgid "Text Angle"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:177
+msgid "Trending Badges"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:196
+msgid "Hide Trending Badges"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:217
+msgid "Trending Icon"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:222
+msgid "Trending 1"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:223
+msgid "Trending 2"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:224
+msgid "Trending 3"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:244
+msgid "Trending Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:265
+msgid "Trending Icon Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:286
+msgid "Trending Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:307
+msgid "Category & Tag Badges"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:326
+msgid "Hide Category & Tag Badges"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:350
+msgid "Show Badges for Categories"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:372
+msgid "Show Badges for Tags"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:392
+msgid "Category & Tag Badges Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:413
+msgid "Category & Tag Icon Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:434
+msgid "Category & Tag Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:455
+msgid "Post Formats"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:474
+msgid "Hide Post Format Icons"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:498
+msgid "Show Icons For Categories"
+msgstr ""
+
+#: includes/admin/customizer/design-badges.php:520
+msgid "Show Icons For Tags"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:39
+msgid "Hide Top Part"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:60
+msgid "Hide Bottom Part"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:81
+msgid "Hide Pattern"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:102
+#: includes/admin/customizer/design-header.php:106
+msgid "Pattern Position"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:107
+msgid "Top Footer"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:108
+msgid "Bottom Footer"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:127
+#: includes/admin/customizer/design-header.php:132
+msgid "Pattern Type"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:132
+#: includes/admin/customizer/design-header.php:137
+msgid "Rags"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:152
+msgid "Hide Social Icons"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:193
+#: includes/admin/customizer/layout-archive.php:39
+#: includes/admin/customizer/layout-post.php:127
+#: includes/admin/customizer/mobile-layout-global.php:39
+msgid "Disable Strip"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:214
+#: includes/admin/customizer/layout-archive.php:126
+#: includes/admin/customizer/layout-page.php:39
+#: includes/admin/customizer/layout-post.php:192
+msgid "Strip Conditions"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:236
+#: includes/admin/customizer/layout-archive.php:148
+#: includes/admin/customizer/layout-page.php:105
+#: includes/admin/customizer/layout-post.php:214
+msgid "Strip Time Range"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:261
+#: includes/admin/customizer/layout-archive.php:173
+#: includes/admin/customizer/layout-page.php:130
+#: includes/admin/customizer/layout-post.php:239
+msgid "Strip Category"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:283
+#: includes/admin/customizer/layout-archive.php:195
+#: includes/admin/customizer/layout-page.php:152
+#: includes/admin/customizer/layout-post.php:261
+msgid "Strip Tags"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:302
+#: includes/admin/customizer/layout-archive.php:214
+#: includes/admin/customizer/layout-page.php:171
+#: includes/admin/customizer/layout-post.php:280
+msgid "Strip Items Count"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:306
+#: includes/admin/customizer/layout-archive.php:218
+#: includes/admin/customizer/layout-page.php:175
+#: includes/admin/customizer/layout-post.php:284
+msgid "Minimum count: 6. To show all items, please enter -1."
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:348
+#: includes/admin/customizer/design-header.php:599
+msgid "Top Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:369
+msgid "Top Primary Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:390
+msgid "Top Primary Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:411
+msgid "Top Heading Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:432
+#: includes/admin/customizer/design-header.php:620
+msgid "Top Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:453
+msgid "Top Link Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:474
+#: includes/admin/customizer/design-header.php:662
+msgid "Bottom Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:495
+#: includes/admin/customizer/design-header.php:683
+msgid "Bottom Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-footer.php:516
+#: includes/admin/customizer/design-header.php:704
+msgid "Bottom Text Hover Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:19
+#: includes/admin/customizer/mobile-layout-global.php:19
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:40
+msgid "Global"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:39
+msgid "Google App API KEY"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:61
+msgid "Logo Font Family"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:83
+msgid "Primary Font Family"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:105
+msgid "Secondary Font Family"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:127
+msgid "Post Titles Font Family"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:149
+msgid "Google Font Subset"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:170
+msgid "General Text Font Size (px)"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:191
+msgid "Single Post Heading Font Size (px)"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:212
+msgid "Widget Heading Font Size (px)"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:233
+msgid "Page Wrapper Width"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:238
+#: includes/admin/customizer/design-header.php:470
+#: includes/admin/customizer/design-header.php:495
+msgid "Boxed"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:239
+msgid "Full Width"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:259
+msgid "Body Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:280
+msgid "Body Background Image"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:300
+msgid "Body Background Image Type"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:305
+msgid "Cover"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:306
+msgid "Repeat"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:325
+msgid "Body Background Link"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:347
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:368
+msgid "Primary Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:389
+msgid "Primary Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:410
+msgid "Base Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:431
+msgid "Secondary Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:452
+msgid "Heading Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:473
+msgid "Link Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:494
+msgid "Secondary Elements Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:515
+msgid "Secondary Elements Text Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:536
+msgid "Global Border Color"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:556
+msgid "Global Border Radius (px)"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:560
+#: includes/admin/customizer/design-global.php:586
+#: includes/admin/customizer/design-global.php:612
+msgid "[0-100]"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:582
+msgid "Inputs/Buttons Border Radius (px)"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:608
+msgid "Social Icons Border Radius (px)"
+msgstr ""
+
+#: includes/admin/customizer/design-global.php:634
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:19
+msgid "Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:39
+msgid "Disable Top Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:60
+msgid "Disable Bottom Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:81
+msgid "Logo Position"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:86
+#: includes/admin/customizer/design-header.php:111
+#: includes/admin/customizer/design-header.php:162
+#: includes/admin/customizer/design-header.php:188
+#: includes/admin/customizer/design-header.php:215
+#: includes/admin/customizer/design-header.php:241
+#: includes/admin/customizer/design-header.php:319
+#: includes/admin/customizer/design-header.php:345
+#: includes/admin/customizer/design-header.php:392
+msgid "Top Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:87
+#: includes/admin/customizer/design-header.php:112
+#: includes/admin/customizer/design-header.php:163
+#: includes/admin/customizer/design-header.php:189
+#: includes/admin/customizer/design-header.php:216
+#: includes/admin/customizer/design-header.php:242
+#: includes/admin/customizer/design-header.php:320
+#: includes/admin/customizer/design-header.php:346
+#: includes/admin/customizer/design-header.php:393
+msgid "Bottom Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:138
+msgid "Clouds"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:157
+msgid "Shadow Position"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:183
+msgid "Badges Position"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:190
+msgid "Outside Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:210
+msgid "Authentication Position"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:236
+msgid "Search Position"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:262
+msgid "Top Menu Alignment"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:268
+#: includes/admin/customizer/design-header.php:294
+msgid "Middle"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:288
+msgid "Bottom Menu Alignment"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:340
+msgid "Burger Navigation Position"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:366
+msgid "Community Text"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:387
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:394
+msgid "Both Headers"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:414
+msgid "Top Header Height"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:439
+msgid "Bottom Header Height"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:464
+msgid "Top Header Width"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:469
+#: includes/admin/customizer/design-header.php:494
+msgid "Full width"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:489
+msgid "Bottom Header Width"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:514
+#: includes/admin/customizer/layout-post.php:415
+msgid "Button Text"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:535
+msgid "Button Link"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:556
+#: includes/widgets/class-boombox-widget-create-post.php:160
+msgid "Enable Plus Icon On Button"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:578
+msgid "Site Title Color"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:641
+msgid "Top Text Hover Color"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:725
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/admin/customizer/design-header.php:746
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:19 includes/theme-setup.php:332
+msgid "Archive"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:60
+#: includes/admin/customizer/layout-post.php:39
+msgid "Default Template"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:82
+#: includes/admin/customizer/layout-page.php:61
+#: includes/admin/customizer/layout-post.php:148
+msgid "Strip Size"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:104
+#: includes/admin/customizer/layout-page.php:83
+#: includes/admin/customizer/layout-post.php:170
+msgid "Strip Titles Position"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:259
+#: includes/admin/customizer/mobile-layout-global.php:81
+msgid "Disable Featured Area"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:280
+#: includes/admin/customizer/layout-page.php:216
+msgid "Featured Type"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:302
+#: includes/admin/customizer/layout-page.php:238
+msgid "Featured Conditions"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:324
+#: includes/admin/customizer/layout-page.php:260
+msgid "Featured Time Range"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:366
+msgid "Listing Type"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:388
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:410
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:299
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:434
+#: includes/admin/customizer/layout-page.php:349
+#: includes/admin/customizer/layout-post.php:328
+#: includes/admin/customizer/layout-post.php:653
+msgid "Hide Elements"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:453
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:311
+msgid "Ad"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:475
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:328
+msgid "Inject ad instead of the post"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:499
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:341
+msgid "Newsletter"
+msgstr ""
+
+#: includes/admin/customizer/layout-archive.php:521
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:358
+msgid "Inject newsletter instead of the post"
+msgstr ""
+
+#: includes/admin/customizer/layout-page.php:285
+msgid "Featured Category"
+msgstr ""
+
+#: includes/admin/customizer/layout-page.php:307
+msgid "Featured Tags"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:19
+#: includes/admin/customizer/mobile-layout-post.php:19
+#: includes/theme-setup.php:327
+msgid "Post Single"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:61
+msgid "Posts Navigation Direction"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:66
+msgid "From Newest To Oldest"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:67
+msgid "From Oldest To Newest"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:106
+msgid "Disable View Track"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:350
+msgid "Sharebar Elements"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:352
+msgid "Share Count"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:353
+msgid "Comments"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:354
+msgid "Points"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:374
+msgid " \"View Full Post\" Button "
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:396
+msgid "Show If"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:457
+msgid "Disable Related Posts Section"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:478
+msgid "Related Entries Per Page"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:499
+msgid "Related Entries Heading"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:522
+msgid "Disable \"More From\" Section"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:543
+msgid "\"More From\" Entries Per Page"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:564
+msgid "\"More From\" Block Heading"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:587
+msgid "Disable \"Don't Miss\" Section"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:608
+msgid "\"Don't Miss\" Entries Per Page"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:629
+msgid "\"Don't Miss\" Entries Heading"
+msgstr ""
+
+#: includes/admin/customizer/layout-post.php:654
+msgid "For related posts settings."
+msgstr ""
+
+#: includes/admin/customizer/mobile-layout-global.php:60
+msgid "Disable Footer Strip"
+msgstr ""
+
+#: includes/admin/customizer/mobile-layout-global.php:102
+msgid "Disable Sidebar"
+msgstr ""
+
+#: includes/admin/customizer/panels.php:17
+msgid "Design"
+msgstr ""
+
+#: includes/admin/customizer/panels.php:24
+msgid "Layouts"
+msgstr ""
+
+#: includes/admin/customizer/panels.php:31
+msgid "Mobile Control"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:19
+msgid "GIF Control"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:38
+msgid "Disable Direct Gif Sharing"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:59
+msgid "Animation Event"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:64
+msgid "Click"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:65
+msgid "Hover"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:66
+msgid "Scroll"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:86
+msgid "CloudConvert"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:105
+msgid "CloudConvert App Key"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:126
+msgid "Storage"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:131
+msgid "Local"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:132
+#: includes/admin/customizer/settings-gif.php:152
+msgid "Amazon S3"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:171
+msgid "Access Key Id"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:192
+msgid "Secret Access Key"
+msgstr ""
+
+#: includes/admin/customizer/settings-gif.php:213
+msgid "Bucket Name"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:19
+msgid "Post Ranking System"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:38
+msgid "Login required for points voting"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:59
+msgid "Trending Conditions"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:83
+msgid "Time Range: Last 24 hours"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:102
+#: includes/admin/customizer/settings-rating.php:231
+#: includes/admin/customizer/settings-rating.php:360
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:123
+msgid "Trending page"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:144
+#: includes/admin/customizer/settings-rating.php:273
+#: includes/admin/customizer/settings-rating.php:402
+msgid "Posts Count"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:165
+msgid "Minimal Trending Score"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:189
+#: includes/admin/customizer/settings-rating.php:318
+#: includes/admin/customizer/settings-rating.php:447
+msgid "Hide Badge"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:212
+msgid "Time Range: Last 7 days"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:252
+msgid "Hot page"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:294
+msgid "Minimal Hot Score"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:341
+msgid "Time Range: Last 30 days"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:381
+msgid "Popular page"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:423
+msgid "Minimal Popular Score"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:468
+msgid "Fake Views Count"
+msgstr ""
+
+#: includes/admin/customizer/settings-rating.php:489
+msgid "Fake Points Count"
+msgstr ""
+
+#: includes/admin/customizer/settings-reactions.php:19
+msgid "Post Reactions System"
+msgstr ""
+
+#: includes/admin/customizer/settings-reactions.php:38
+msgid "Disable Reactions"
+msgstr ""
+
+#: includes/admin/customizer/settings-reactions.php:59
+msgid "Login required for reactions voting"
+msgstr ""
+
+#: includes/admin/customizer/settings-reactions.php:80
+msgid "Reaction Award Minimal Score"
+msgstr ""
+
+#: includes/admin/customizer/settings-reactions.php:105
+msgid "Reactions Maximal Count Per Vote"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:19
+msgid "Authentication"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:38
+msgid "Disable Site Authentication"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:59
+msgid "Login Popup Heading"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:80
+msgid "Login Popup Text"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:101
+msgid "Registration Popup Heading"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:122
+msgid "Registration Popup Text"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:143
+msgid "Reset Password Popup Heading"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:164
+msgid "Reset Password Popup Text"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:185
+msgid "\"Terms Of Use\" Page"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:206
+msgid "\"Privacy Policy\" Page"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:227
+msgid "Enable captcha on login"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:248
+msgid "Enable captcha on registration"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:269
+msgid "Captcha Type"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:274
+msgid "Image Captcha"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:275
+msgid "Google Recaptcha"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:294
+msgid "Google Recaptcha Site Key"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:315
+msgid "Google Recaptcha Secret Key"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:337
+msgid "Social Authentication"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:356
+msgid "Disable Social Authentication"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:377
+msgid "Facebook App ID"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:398
+msgid "Google oauth Client ID"
+msgstr ""
+
+#: includes/admin/customizer/site-auth.php:419
+msgid "Google API Key"
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:31
+msgid "Show Tagline"
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:54
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:58
+msgid "After attaching logo, please also set it width and height below."
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:76
+msgid "Logo Width"
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:98
+msgid "Logo Height"
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:121
+msgid "Logo HDPI"
+msgstr ""
+
+#: includes/admin/customizer/site-identity.php:122
+msgid "An image for High DPI screen (like Retina) should be twice as big."
+msgstr ""
+
+#: includes/admin/metaboxes/lib/class-boombox-attachment-metaboxes.php:69
+msgid "Boombox Attachment Advanced Fields"
+msgstr ""
+
+#: includes/admin/metaboxes/lib/class-boombox-attachment-metaboxes.php:93
+msgid "Video URL ( mp4 )"
+msgstr ""
+
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:69
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:139
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:71
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:141
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:54
+msgid "Boombox Page Advanced Fields"
+msgstr ""
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:67
+msgid "Video URL ( mp4, youtube, vimeo )"
+msgstr ""
+
+#: includes/authentication/auth.php:30
+msgid "Facebook"
+msgstr ""
+
+#: includes/front/front-functions.php:2018
+msgid "Quiz"
+msgstr ""
+
+#: includes/front/front-functions.php:2028
+msgid "Video"
+msgstr ""
+
+#: includes/front/front-functions.php:3374
+msgid "k"
+msgstr ""
+
+#: includes/front/front-functions.php:3377
+msgid "M"
+msgstr ""
+
+#: includes/front/front-functions.php:3448
+#: includes/front/front-functions.php:3555
+msgid "points"
+msgstr ""
+
+#: includes/front/front-functions.php:3569
+#: includes/front/front-functions.php:3581
+msgid " "
+msgstr ""
+
+#: includes/plugins/auto-load-next-post.php:95
+#, php-format
+msgid "Boombox: <code>%s</code>"
+msgstr ""
+
+#: includes/plugins/buddypress.php:606
+#, php-format
+msgid "A member mentions you in an update using \"@%s\""
+msgstr ""
+
+#: includes/plugins/buddypress.php:631
+msgid "A member replies to an update or comment you've posted"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:65
+msgid ""
+"If you want your demo to looked exactly like selected demo and to prevent "
+"conflicts with current content, we highly recommend importing demo data on a "
+"clean installation."
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:76
+msgid "Boombox Original"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:81
+msgid "Original"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:85
+#: includes/plugins/one-click-demo-import.php:90
+msgid "Animatrix"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:94
+#: includes/plugins/one-click-demo-import.php:99
+msgid "Another GAG"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:103
+msgid "Boombox Alternative"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:108
+msgid "Alternative"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:112
+#: includes/plugins/one-click-demo-import.php:117
+msgid "Buzzy"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:121
+#: includes/plugins/one-click-demo-import.php:126
+msgid "Lonely Panda"
+msgstr ""
+
+#: includes/plugins/one-click-demo-import.php:130
+#: includes/plugins/one-click-demo-import.php:135
+msgid "Boommag"
+msgstr ""
+
+#: template-parts/footer/footer-bottom.php:49
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: template-parts/popups/registration-form.php:89
+#: template-parts/popups/registration-form.php:90
+msgid "the"
+msgstr ""
+
+#: buddypress/groups/create.php:186
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a "
+"href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"Dikkat Site Admin: Grup forumlar bbPress kurulum doğru kurulum ve "
+"yapılandırma gerektirir."
+
+#: buddypress/groups/create.php:226 buddypress/groups/single/admin.php:197
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"Bu grup için bir profil fotoğrafı olarak kullanmak üzere bir resim yükleyin. "
+"Görüntü ana grup sayfasında ve arama sonuçlarında görünecektir."
+
+#: buddypress/groups/create.php:238
+msgid ""
+"To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+"Grup profil fotoğraf yükleme işlemini atlamak için, \"Sonraki Adım\" "
+"düğmesine basın."
+
+#: buddypress/groups/create.php:259 buddypress/groups/single/admin.php:236
+msgid "Profile photo preview"
+msgstr "Profil fotoğrafı önizleme"
+
+#: buddypress/groups/create.php:300 buddypress/groups/single/admin.php:267
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr "Kapak resmi grubunuzun başlığını özelleştirmek için kullanılır."
+
+#: buddypress/groups/create.php:335
+msgid "Add Users to Invite List"
+msgstr "Davet Listene Kullanıcı Ekle"
+
+#: buddypress/groups/create.php:348
+msgid "Select people to invite from your friends list."
+msgstr ""
+"Arkadaş listenizden insanları seçerek davet edin.\n"
+
+#: buddypress/groups/create.php:384
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Eğer arkadaş bağlantıların kuvvetlendikten sonra sizin gruba başkalarını "
+"davet edebilecektir."
+
+#: buddypress/groups/groups-loop.php:137
+msgid "There were no groups found."
+msgstr "Gruplar bulunamadı."
+
+#: buddypress/groups/index.php:92
+msgid "Most Members"
+msgstr "Çoğu Üyeler"
+
+#: buddypress/groups/single/admin.php:58
+msgid "Notify group members of these changes via email"
+msgstr ""
+"E-posta yoluyla bu değişikliklerden grup üyelerini haberdar et.\n"
+
+#: buddypress/groups/single/admin.php:211
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+"Eğer mevcut grup profil resmini kaldırmak istiyor ve yeni bir tane yüklemek "
+"istemiyorsanız, lütfen grup profil resmini sil butonuna tıklayın."
+
+#: buddypress/groups/single/admin.php:512
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"UYARI: Bu grubun silinmesi tamamen onunla ilişkili TÜM içeriği kaldıracaktır."
+" Hiçbir şekilde geri dönüşü yoktur, bu seçeneği tıklarken lütfen dikkatli "
+"olun."
+
+#: buddypress/groups/single/admin.php:518
+msgid "I understand the consequences of deleting this group."
+msgstr "Bu grubun silinmesiyle ilgili sonuçları anladım."
+
+#: buddypress/groups/single/admin.php:531
+msgid "Delete Group"
+msgstr "Grubu Sil"
+
+#: buddypress/groups/single/home.php:118
+msgid "Group Admins"
+msgstr "Grup Yöneticileri"
+
+#: buddypress/groups/single/home.php:138
+msgid "Group Mods"
+msgstr "Grup Modları"
+
+#: buddypress/groups/single/invites-loop.php:118
+msgid "Select friends to invite."
+msgstr "Davet edeceğin arkadaşlarını seç."
+
+#: buddypress/groups/single/members.php:137
+msgid "No members were found."
+msgstr "Hiç üye bulunamadı."
+
+#: buddypress/groups/single/request-membership.php:17
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr " '%s' grubuna üye olman isteniyor."
+
+#: buddypress/groups/single/request-membership.php:20
+msgid "Comments (optional)"
+msgstr "Yorumlar (isteğe bağlı)"
+
+#: buddypress/groups/single/requests-loop.php:101
+msgid "There are no pending membership requests."
+msgstr "Bekleyen üyelik başvurusu yok."
+
+#: buddypress/members/activate.php:42
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Hesabınız başarıyla etkinleştirildi! Hesabınızın ayrıntıları ayrı bir e-"
+"posta ile size gönderildi."
+
+#: buddypress/members/activate.php:44
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log "
+"in</a> with the username and password you provided when you signed up."
+msgstr ""
+"Hesabınız başarıyla etkinleştirildi! Artık kaydolurken verilen kullanıcı adı "
+"ve şifre ile giriş yapabilirsiniz."
+
+#: buddypress/members/activate.php:49
+msgid "Please provide a valid activation key."
+msgstr "Geçerli bir aktivasyon anahtarı veriniz."
+
+#: buddypress/members/activate.php:52
+msgid "Activation Key"
+msgstr "Aktivasyon Anahtarı"
+
+#: buddypress/members/activate.php:53
+#: includes/admin/activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: buddypress/members/index.php:94
+msgid "Newest Registered"
+msgstr "Yeni Kayıtlı"
+
+#: buddypress/members/members-loop.php:144
+msgid "Sorry, no members were found."
+msgstr "Üzgünüz, hiç üye bulunamadı."
+
+#: buddypress/members/register.php:41
+msgid "User registration is currently not allowed."
+msgstr "Kullanıcı kaydına şu an izin verilmiyor."
+
+#: buddypress/members/register.php:59
+msgid "Registering for this site is easy"
+msgstr "Bu siteye kaydolmak çok kolay"
+
+#: buddypress/members/register.php:60
+msgid ""
+"Just fill in the fields below, and we'll get a new account set up for you in "
+"no time."
+msgstr ""
+"Sadece aşağıdaki alanları doldurun, biz sizin için hiç zaman kaybetmeden "
+"hesabınızı kuracağız."
+
+#: buddypress/members/register.php:179 buddypress/members/register.php:200
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+"Bu alan tarafından görülebilir: %s\n"
+
+#: buddypress/members/register.php:183
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr "Değiştir"
+
+#: buddypress/members/register.php:188
+msgid "Who can see this field?"
+msgstr "Kim bu alanı görebilir?"
+
+#: buddypress/members/register.php:266
+msgid "Yes, I'd like to create a new site"
+msgstr "Evet, yeni bir site oluşturmak istiyorum"
+
+#: buddypress/members/register.php:297
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Sitemin arama motorlarında görünmesini istiyorum.\n"
+
+#: buddypress/members/register.php:381
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Hesabınızı başarıyla oluşturdunuz! Üyeliğinizin aktifleşmesi için e-posta "
+"adresinize gönderdiğimiz bağlantıya tıklayın."
+
+#: buddypress/members/register.php:383
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Hesabınızı başarıyla oluşturdunuz! Yeni oluşturduğunuz kullanıcı adını ve "
+"şifreyi kullanarak giriş yapın."
+
+#: buddypress/members/single/friends/requests.php:106
+msgid "You have no pending friendship requests."
+msgstr "Bekleyen arkadaş isteğin yok."
+
+#: buddypress/members/single/groups/invites.php:32
+#, php-format
+msgctxt "Group member count"
+msgid "%d member"
+msgid_plural "%d members"
+msgstr[0] "%d üye"
+msgstr[1] "%d üyeler"
+
+#: buddypress/members/single/groups/invites.php:71
+msgid "You have no outstanding group invites."
+msgstr "Hiçbir grup davetin yok."
+
+#: buddypress/members/single/messages/messages-loop.php:87
+msgid "Subject"
+msgstr "Konu"
+
+#: buddypress/members/single/messages/messages-loop.php:88
+#: buddypress/members/single/notifications/notifications-loop.php:26
+msgid "Actions"
+msgstr "Eylemler"
+
+#: buddypress/members/single/messages/messages-loop.php:101
+msgid "Select this message"
+msgstr "Bu mesajı seç"
+
+#: buddypress/members/single/messages/messages-loop.php:131
+msgid "From:"
+msgstr "Kimden:"
+
+#: buddypress/members/single/messages/messages-loop.php:143
+msgid "To:"
+msgstr "Kime:"
+
+#: buddypress/members/single/messages/messages-loop.php:150
+msgid "View Message"
+msgstr "Mesajı Görüntüle"
+
+#: buddypress/members/single/messages/messages-loop.php:156
+msgid "Read"
+msgstr "Okunmuş"
+
+#: buddypress/members/single/messages/messages-loop.php:158
+msgid "Unread"
+msgstr "Okunmamış"
+
+#: buddypress/members/single/messages/messages-loop.php:210
+msgid "Sorry, no messages were found."
+msgstr "Maalesef, hiç mesaj bulunamadı."
+
+#: buddypress/members/single/notifications/notifications-loop.php:40
+msgid "Select this notification"
+msgstr "Bu bildirimi seç"
+
+#: buddypress/members/single/settings/general.php:15
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+"Geçerli Parola (e-posta güncelleme veya mevcut şifreyi değiştirmek için "
+"gereklidir)\n"
+
+#: includes/admin/customizer/customizer.php:349
+msgid "View Full Post"
+msgstr "Tüm Yayını Görüntüle"
+
+#: includes/admin/customizer/customizer.php:352
+msgid "You may also like"
+msgstr "Belki Beğenirsin"
+
+#: includes/admin/customizer/customizer.php:355
+msgid "More From:"
+msgstr "Fazla:"
+
+#: includes/admin/customizer/customizer.php:358
+msgid "DON'T MISS"
+msgstr "KAÇIRMAYIN"
+
+#: includes/admin/customizer/customizer.php:494
+#: includes/admin/customizer/customizer.php:512
+#: includes/admin/customizer/customizer.php:743
+#: includes/admin/customizer/customizer.php:828
+#: includes/admin/customizer/customizer.php:841
+#: includes/admin/customizer/design-header.php:113
+#: includes/admin/customizer/design-header.php:164
+#: includes/admin/customizer/design-header.php:191
+#: includes/admin/customizer/design-header.php:217
+#: includes/admin/customizer/design-header.php:243
+#: includes/admin/customizer/design-header.php:321
+#: includes/admin/customizer/design-header.php:347
+#: includes/admin/customizer/design-header.php:395
+msgid "None"
+msgstr "Hiçbiri"
+
+#: includes/admin/customizer/customizer.php:528
+#: includes/admin/customizer/customizer.php:550
+msgid "Shares Count"
+msgstr "Paylaşım Sayacı"
+
+#: includes/admin/customizer/customizer.php:529
+#: includes/admin/customizer/customizer.php:551
+msgid "Views Count"
+msgstr "Görüntüleme Sayacı"
+
+#: includes/admin/customizer/customizer.php:530
+#: includes/admin/customizer/customizer.php:552
+msgid "Votes Count"
+msgstr "Oy Sayacı"
+
+#: includes/admin/customizer/customizer.php:531
+#: includes/admin/customizer/customizer.php:553
+#: includes/admin/customizer/customizer.php:575
+#: includes/admin/customizer/customizer.php:605
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: includes/admin/customizer/customizer.php:532
+#: includes/admin/customizer/customizer.php:554
+#: includes/admin/customizer/customizer.php:577
+#: includes/admin/customizer/customizer.php:607
+msgid "Comments Count"
+msgstr "Yorum Sayacı"
+
+#: includes/admin/customizer/site-identity.php:144
+msgid "Small Logo"
+msgstr "Küçük Logo"
+
+#: includes/admin/customizer/site-identity.php:165
+msgid "Footer Text"
+msgstr "Alt bilgi Yazısı"
+
+#: includes/admin/customizer/site-identity.php:188
+msgid "404 Page Image"
+msgstr "404 Sayfa Resmi"
+
+#: includes/admin/metaboxes/lib/class-boombox-attachment-metaboxes.php:99
+msgid "Image URL ( jpg )"
+msgstr "Resim URL (jpg)"
+
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:74
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:149
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:76
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:148
+msgid "Upload/Add image"
+msgstr "Resim Ekle/Yükle"
+
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:75
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:151
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:77
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:149
+msgid "Remove image"
+msgstr "Resmi Kaldır"
+
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:82
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:158
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:84
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:156
+msgid "Icon"
+msgstr "İkon"
+
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:84
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:164
+#: includes/admin/metaboxes/lib/class-boombox-menu-item-custom-fields.php:152
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:86
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:162
+msgid "Select icon"
+msgstr "İkon Seç"
+
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:96
+#: includes/admin/metaboxes/lib/class-boombox-category-metaboxes.php:180
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:98
+#: includes/admin/metaboxes/lib/class-boombox-tag-metaboxes.php:178
+msgid "Badge Background Color"
+msgstr "Rozet Arka Plan Rengi"
+
+#: includes/admin/metaboxes/lib/class-boombox-menu-item-custom-fields.php:170
+msgid "Select label"
+msgstr "Alan Seç"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:144
+msgid "Hide Page Title"
+msgstr "Sayfa Başlığını Gizle"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:154
+msgid "Show Strip"
+msgstr "Şeridi Göster"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:161
+msgid "Show Featured Area"
+msgstr "Sunulan Alanı Göster"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:172
+msgid "Listing Type "
+msgstr "Listeleme Stili"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:191
+msgid "Secondary Sidebar Position "
+msgstr "İkincil Kenar Pozisyonu"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:206
+msgid "Listing Condition"
+msgstr "Listeleme Şartları"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:222
+msgid "Listing Time Range"
+msgstr "Listeleme Zaman Aralığı"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:238
+msgid "Listing Category"
+msgstr "Listeleme Kategorisi"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:258
+msgid "Listing Tag"
+msgstr "Listeleme Etiketi"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:282
+msgid "Pagination Type "
+msgstr "Sayfalama Stili"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:369
+#: includes/theme-setup.php:302
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:370
+#: includes/theme-setup.php:307
+msgid "Page 1"
+msgstr "Sayfa 1"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:371
+#: includes/theme-setup.php:312
+msgid "Page 2"
+msgstr "Sayfa 2"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:372
+#: includes/theme-setup.php:317
+msgid "Page 3"
+msgstr "Sayfa 3"
+
+#: includes/admin/metaboxes/lib/class-boombox-page-metaboxes.php:377
+msgid "Sidebar Template"
+msgstr "Kenar Şablonu"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:47
+msgid "Hide Featured Image"
+msgstr "Sunulan Resmi Gizle"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:57
+msgid "Post Template"
+msgstr "Yayın Şablonu"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:80
+#: includes/plugins/one-click-demo-import.php:162
+msgid "Affiliate"
+msgstr "Ortaklık"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:87
+msgid "Regular Price"
+msgstr "Normal Fiyat"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:99
+msgid "Discount Price"
+msgstr "İndirimli Fiyat"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:111
+msgid "Affiliate Link"
+msgstr "Ortaklık Linki"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:125
+msgid "Use as post link"
+msgstr "Bir yayın linki kullan"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:156
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:165
+msgid "Boombox Post Advanced Fields"
+msgstr "Boombox Yazı Gelişmiş Alanları"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:223
+msgid "Keep Trending"
+msgstr "Trend Tut"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:230
+msgid "Keep Hot"
+msgstr "Sıcak Tut"
+
+#: includes/admin/metaboxes/lib/class-boombox-post-metaboxes.php:237
+msgid "Keep Popular"
+msgstr "Popüler Tut"
+
+#: includes/authentication/auth.php:37
+msgid "or"
+msgstr "yada"
+
+#: includes/authentication/default/default-auth.php:45
+#: includes/authentication/social/social-auth.php:78
+msgid "Sending user info, please wait..."
+msgstr "Kullanıcı bilgisi gönderiliyor, lütfen bekleyin..."
+
+#: includes/authentication/default/default-auth.php:80
+#: includes/authentication/default/default-auth.php:93
+#: includes/authentication/default/default-auth.php:131
+#: includes/authentication/default/default-auth.php:144
+msgid "Invalid Captcha. Please, try again."
+msgstr "Geçersiz Captcha. Lütfen tekrar deneyin."
+
+#: includes/authentication/default/default-auth.php:172
+msgid "This email address is already registered."
+msgstr "Bu mail adresi zaten kayıtlı."
+
+#: includes/authentication/default/default-auth.php:303
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Birisi aşağıdaki hesap için bir parola sıfırlama istedi:"
+
+#: includes/authentication/default/default-auth.php:306
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Bu bir hataysa, bu maili görmezden gelin."
+
+#: includes/authentication/default/default-auth.php:307
+msgid "To reset your password, visit the following address:"
+msgstr "Şifrenizi sıfırlamak için, bu adresi ziyaret edin:"
+
+#: includes/authentication/default/default-auth.php:314
+msgid "Confirmation email is sent to your email address"
+msgstr "Onay maili e-posta adresinize gönderildi."
+
+#: includes/authentication/default/default-auth.php:317
+msgid "Oops! Something went wrong while updating your account."
+msgstr ""
+"Haydaa! Hesabınız güncellenirken bir şeyler ters gitti.\n"
+
+#: includes/authentication/social/social-auth.php:121
+msgid "Failed to validate token"
+msgstr "Belirteç doğrulanamadı"
+
+#: includes/authentication/social/social-auth.php:129
+msgid "Email missing"
+msgstr "Eksik email"
+
+#: includes/authentication/social/social-auth.php:178
+msgid "Registering new users is currently not allowed."
+msgstr "Yeni kullanıcı kaydı şuan için kabul edilmiyor."
+
+#: includes/front/front-functions.php:648
+#, php-format
+msgid "1 %s ago"
+msgstr "1 %s önce"
+
+#: includes/front/front-functions.php:2008
+msgid "Poll"
+msgstr "Anket"
+
+#: includes/front/front-functions.php:2183
+msgid "Comments by other"
+msgstr "Başkası için yorumlar"
+
+#: includes/front/front-functions.php:2187
+msgid "Comments by me"
+msgstr "Benim için yorumlar"
+
+#: includes/front/front-functions.php:2370
+msgid ""
+"There are no ads set to this area or maximum limit of ads on a single page "
+"has been reached"
+msgstr ""
+"Bu alanda ya da tek bir sayfada maksimum limite ayarlanmış hiç reklam yok"
+
+#: includes/front/front-functions.php:2469
+msgid "subscribe to our top stories"
+msgstr "en iyi hikayelerimize abone ol"
+
+#: includes/front/front-functions.php:2650
+msgid "Not Safe For Work"
+msgstr "Çalışmak İçin Güvenli Değil"
+
+#: includes/front/front-functions.php:2710
+msgid ""
+"To view this video please enable JavaScript, and consider upgrading to a web "
+"browser that supports HTML5 video"
+msgstr ""
+"Bu videoyu görüntülemek için lütfen JavaScript etkinleştirin ve HTML5 video "
+"desteği sunan bir web tarayıcısı kullanın"
+
+#: includes/front/front-functions.php:3510
+msgid "Get The Newsletter"
+msgstr "Haber Alın"
+
+#: includes/front/front-functions.php:3615
+msgid "view"
+msgid_plural "views"
+msgstr[0] "okunma"
+msgstr[1] "okunma"
+
+#: includes/plugins/buddypress.php:156
+msgid "Invalid captcha"
+msgstr "Geçersiz captcha"
+
+#: includes/plugins/buddypress.php:165
+msgid "Invalid recaptcha."
+msgstr "Geçersiz recaptcha"
+
+#: includes/plugins/buddypress.php:196 template-parts/popups/login-form.php:64
+#: template-parts/popups/registration-form.php:65
+msgid "Enter captcha"
+msgstr "Captcha kodu gir"
+
+#: includes/plugins/buddypress.php:332
+msgid "Oldest"
+msgstr "En eski"
+
+#: includes/plugins/buddypress.php:335
+msgid "Group Activity"
+msgstr "Grup Erkinlikleri"
+
+#: includes/plugins/buddypress.php:887
+msgctxt "group settings on notification settings page"
+msgid "You are promoted to a group administrator or moderator"
+msgstr "Bir grupta yönetici veya moderatörlüğe terfi edildin"
+
+#: includes/plugins/buddypress.php:910
+msgctxt "group settings on notification settings page"
+msgid "A member requests to join a private group for which you are an admin"
+msgstr "Biri yöneticisi olduğunuz özel bir gruba katılmak istiyor"
+
+#: includes/plugins/buddypress.php:933
+msgctxt "group settings on notification settings page"
+msgid "Your request to join a group has been approved or denied"
+msgstr ""
+"Bir gruba katılma isteğiniz onaylanmış veya reddedildi\n"
+
+#: includes/plugins/one-click-demo-import.php:59
+msgid "WP Reset"
+msgstr "WP Sıfırlama"
+
+#: includes/plugins/one-click-demo-import.php:60
+msgid "WordPress Reset"
+msgstr "Wordpress Sıfırlama"
+
+#: includes/plugins/one-click-demo-import.php:61
+msgid "WordPress Database Reset"
+msgstr "Wordpress Veri Tabanı Sıfırlama"
+
+#: includes/plugins/one-click-demo-import.php:66
+msgid ""
+"We highly recommend to create backup of your site before database reset if "
+"you are working on your database. Please note that database reset means "
+"cleaning all content that you have in your WordPress and restore to "
+"WordPress defaults."
+msgstr ""
+"Veritabanı üzerinde çalışıyoruz, veritabanını sıfırlamadan önce sitenizin "
+"yedeğini oluşturmanızı tavsiye ederiz. Bu veritabanını sıfırlama işlemi "
+"sizin WordPress deki tüm içeriğinizi temizlemek demektir unutmayınız.\n"
+
+#: includes/plugins/one-click-demo-import.php:67
+#, php-format
+msgid ""
+"Please feel free to use %1$s, %2$s or %3$s plugins to reset your WordPress "
+"site."
+msgstr ""
+"WordPress site sıfırlamak için %1$s, %2$s yada %3$s eklentilerini kullanmak "
+"için çekinmeyin.\n"
+
+#: includes/front/front-functions.php:2487
+msgid "Don't worry, we don't spam"
+msgstr "Endişelenme, spam değiliz"
+
+#: includes/front/front-functions.php:2651
+msgid "Click to view this post."
+msgstr "Bu yayını görmek için tıkla."
+
+#: includes/plugins/buddypress.php:613 includes/plugins/buddypress.php:638
+#: includes/plugins/buddypress.php:694 includes/plugins/buddypress.php:717
+#: includes/plugins/buddypress.php:779 includes/plugins/buddypress.php:848
+#: includes/plugins/buddypress.php:871 includes/plugins/buddypress.php:894
+#: includes/plugins/buddypress.php:917 includes/plugins/buddypress.php:940
+msgid "Yes, send email"
+msgstr "Evet mail gönder"
+
+#: includes/plugins/buddypress.php:623 includes/plugins/buddypress.php:648
+#: includes/plugins/buddypress.php:704 includes/plugins/buddypress.php:727
+#: includes/plugins/buddypress.php:789 includes/plugins/buddypress.php:858
+#: includes/plugins/buddypress.php:881 includes/plugins/buddypress.php:904
+#: includes/plugins/buddypress.php:927 includes/plugins/buddypress.php:950
+msgid "No, do not send email"
+msgstr "Hayır mail gönderme"
+
+#: includes/plugins/buddypress.php:679
+msgctxt "Friend settings on notification settings page"
+msgid "Friends"
+msgstr "Arkadaşlar"
+
+#: includes/plugins/buddypress.php:687
+msgctxt "Friend settings on notification settings page"
+msgid "A member sends you a friendship request"
+msgstr "Biri sana arkadaşlık isteği gönderdi"
+
+#: includes/plugins/buddypress.php:710
+msgctxt "Friend settings on notification settings page"
+msgid "A member accepts your friendship request"
+msgstr "Arkadaşlık İsteğini Kabul Etti"
+
+#: includes/plugins/buddypress.php:833
+msgctxt "Group settings on notification settings page"
+msgid "Groups"
+msgstr "Gruplar"
+
+#: includes/plugins/buddypress.php:841
+msgctxt "group settings on notification settings page"
+msgid "A member invites you to join a group"
+msgstr "Biri seni gruba katılmaya davet etti"
+
+#: includes/plugins/buddypress.php:864
+msgctxt "group settings on notification settings page"
+msgid "Group information is updated"
+msgstr "Grup bilgisi güncellendi"
+
+#: includes/plugins/one-click-demo-import.php:139
+msgid "Boombox Minimal"
+msgstr "En az"
+
+#: includes/plugins/one-click-demo-import.php:144
+msgid "Minimal"
+msgstr "En az"
+
+#: includes/plugins/one-click-demo-import.php:157
+msgid "Boombox Affiliate"
+msgstr "Ortaklık"
+
+#: includes/plugins/one-click-demo-import.php:436
+#: includes/plugins/one-click-demo-import.php:437
+msgid "Boombox Demo Import"
+msgstr "Demo İçe Aktar"
+
+#: includes/plugins/wsl.php:55
+msgid "Boombox social icons"
+msgstr "Sosyal İkonlar"
+
+#: includes/plugins/zombify.php:67
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr "Önceki"
+
+#: includes/plugins/zombify.php:68
+msgctxt "next set of posts"
+msgid "Next"
+msgstr "Sonraki"
+
+#: includes/rate-and-vote-restrictions/comment-count/comment-count.php:14
+msgid "Most Discussed"
+msgstr "En Çok Tartışılan"
+
+#: includes/rate-and-vote-restrictions/point-count/point-count.php:35
+msgid "Most Voted"
+msgstr "En Çok Oylananlar"
+
+#: includes/rate-and-vote-restrictions/rate/rate.php:14
+msgid "Last 24 hours"
+msgstr "Son 24 Saat"
+
+#: includes/rate-and-vote-restrictions/rate/rate.php:15
+msgid "Last 7 days"
+msgstr "Son 7 Gün"
+
+#: includes/rate-and-vote-restrictions/rate/rate.php:16
+msgid "Last 30 days"
+msgstr "Son 30 Gün"
+
+#: includes/rate-and-vote-restrictions/view-count/view-count.php:30
+msgid "Most Viewed"
+msgstr "En Çok Görüntülenen"
+
+#: includes/theme-setup.php:75
+msgid "Top Header Menu"
+msgstr "Üst Üstbilgi Menüsü"
+
+#: includes/theme-setup.php:76
+msgid "Bottom Header Menu"
+msgstr "Alt Üstbilgi Menüsü"
+
+#: includes/theme-setup.php:77
+msgid "Badges Menu"
+msgstr "Rozetler Menüsü"
+
+#: includes/theme-setup.php:78
+msgid "Burger Top Menu"
+msgstr "Izgara Üst Menü"
+
+#: includes/theme-setup.php:79
+msgid "Burger Bottom Menu"
+msgstr "Izgara Alt Menü"
+
+#: includes/theme-setup.php:80
+msgid "Burger Badges Menu"
+msgstr "Izgara Rozetler Menüsü"
+
+#: includes/theme-setup.php:81
+msgid "Footer Menu"
+msgstr "Alt Kısım Menüsü"
+
+#: includes/theme-setup.php:82
+msgid "Profile Menu"
+msgstr "Profil Menüsü"
+
+#: includes/theme-setup.php:304
+msgid ""
+"The widgets added here will appear on all the pages, except the post single "
+"and the page sidebar."
+msgstr ""
+"Buraya eklenen bileşenler sonrası tek sayfa kenar çubuğu hariç, tüm "
+"sayfalarda görünecek."
+
+#: includes/theme-setup.php:309 includes/theme-setup.php:314
+#: includes/theme-setup.php:319
+msgid "Add widgets here to appear in your page sidebar."
+msgstr "Yayınlarınızı kenarında görünmesini istediğiniz şeyleri ekleyin."
+
+#: includes/theme-setup.php:322
+msgid "Secondary"
+msgstr "İkincil"
+
+#: includes/theme-setup.php:324
+msgid "Add widgets here to appear with three column listing type."
+msgstr "Üç sütun listeleme tipindeki içerikleriniz için bileşeni ekleyin."
+
+#: includes/theme-setup.php:329 includes/theme-setup.php:334
+msgid "Add widgets here to appear in your post sidebar."
+msgstr "Yayınlarınızı kenarında görünmesini istediğiniz şeyleri ekleyin."
+
+#: includes/theme-setup.php:337
+msgid "Footer Left"
+msgstr "Sol Alt Kısım"
+
+#: includes/theme-setup.php:339
+msgid "Add widgets here to appear in your footer left section."
+msgstr "Sol alt kısımda görünmesini istediğiniz şeyleri ekleyin."
+
+#: includes/theme-setup.php:342
+msgid "Footer Middle"
+msgstr "Orta Alt Kısım"
+
+#: includes/theme-setup.php:344
+msgid "Add widgets here to appear in your footer middle section."
+msgstr "Orta alt kısımda görünmesini istediğiniz şeyleri ekleyin."
+
+#: includes/theme-setup.php:347
+msgid "Footer Right"
+msgstr "Sağ Alt Kısım"
+
+#: includes/theme-setup.php:349
+msgid "Add widgets here to appear in your footer right section."
+msgstr "Sağ alt kısımda görünmesini istediğiniz şeyleri ekleyin."
+
+#: includes/widgets/class-boombox-widget-create-post.php:115
+msgid "Unleash Your Creativity"
+msgstr "Yaratıcılığınızı Ortaya Koyun"
+
+#: includes/widgets/class-boombox-widget-create-post.php:116
+msgid "and share your story with us!"
+msgstr "ve bizimle hikayenizi paylaşın!"
+
+#: includes/widgets/class-boombox-widget-create-post.php:123
+#: includes/widgets/class-boombox-widget-picked-posts.php:178
+#: includes/widgets/class-boombox-widget-recent-posts.php:155
+#: includes/widgets/class-boombox-widget-trending-posts.php:149
+msgid "Title:"
+msgstr "Başlık:"
+
+#: includes/widgets/class-boombox-widget-create-post.php:130
+msgid "Subtitle:"
+msgstr "Altyazı:"
+
+#: includes/widgets/class-boombox-widget-create-post.php:137
+msgid "Description:"
+msgstr "Açıklama:"
+
+#: includes/widgets/class-boombox-widget-create-post.php:142
+msgid "Button Text:"
+msgstr "Buton Yazısı:"
+
+#: includes/widgets/class-boombox-widget-create-post.php:149
+msgid "Button Link:"
+msgstr "Buton Linki:"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:30
+msgid "Your Site&#8217;s Picked Posts."
+msgstr "Sitenizin Seçili Yayınları."
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:33
+msgid "Boombox Picked Posts"
+msgstr "Boombox Seçilen Yayınlar"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:162
+msgid "Recent Posts"
+msgstr "Son Yayınlar"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:186
+msgid "Condition:"
+msgstr "Şartlar:"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:200
+msgid "Time Range:"
+msgstr "Zaman Aralığı:"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:214
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:234
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:256
+msgid "Numbered"
+msgstr "Numaralandı"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:261
+#: includes/widgets/class-boombox-widget-recent-posts.php:162
+#: includes/widgets/class-boombox-widget-trending-posts.php:157
+msgid "Number of posts to show:"
+msgstr "Gösterim başına yayın sayısı:"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:272
+#: includes/widgets/class-boombox-widget-recent-posts.php:172
+#: includes/widgets/class-boombox-widget-trending-posts.php:182
+msgid "Display post date?"
+msgstr "Yayın tarihi gösterilsin mi?"
+
+#: includes/widgets/class-boombox-widget-picked-posts.php:280
+#: includes/widgets/class-boombox-widget-recent-posts.php:179
+#: includes/widgets/class-boombox-widget-trending-posts.php:190
+msgid "Display post author?"
+msgstr "Yazar gösterilsin mi?"
+
+#: includes/widgets/class-boombox-widget-recent-posts.php:31
+msgid "Your site&#8217;s most recent Posts."
+msgstr "Sitenizin son yayınları."
+
+#: includes/widgets/class-boombox-widget-recent-posts.php:34
+msgid "Boombox Recent Posts"
+msgstr "Boombox Son Yayınlar"
+
+#: includes/widgets/class-boombox-widget-sidebar-footer.php:31
+msgid "Your site&#8217;s footer."
+msgstr "Sitenizin alt kısmı."
+
+#: includes/widgets/class-boombox-widget-sidebar-footer.php:34
+msgid "Boombox Sidebar Footer"
+msgstr "Boombox Alt Kısım Kenarı"
+
+#: includes/widgets/class-boombox-widget-sidebar-footer.php:169
+msgid "Show Copyright Text"
+msgstr "Telif Metnini Göster"
+
+#: includes/widgets/class-boombox-widget-sticky-sidebar.php:30
+msgid "WIth this widget you can define a place where sticky area starts"
+msgstr "Bu bileşenle sabit alanın başladığı yere koyabilirsiniz"
+
+#: includes/widgets/class-boombox-widget-sticky-sidebar.php:33
+msgid "Boombox Sticky Sidebar"
+msgstr "Boombox Sabit Kenar"
+
+#: includes/widgets/class-boombox-widget-sticky-sidebar.php:57
+msgid "All following widgets will be sticky."
+msgstr "Tüm bileşenler sabit olacaktır."
+
+#: includes/widgets/class-boombox-widget-trending-posts.php:30
+msgid "Your Site&#8217;s Trending Posts."
+msgstr "Sitenizin Trend Yayınları."
+
+#: includes/widgets/class-boombox-widget-trending-posts.php:33
+msgid "Boombox Trending Posts"
+msgstr "Boombox Trend Yayınlar"
+
+#: includes/widgets/class-boombox-widget-trending-posts.php:165
+msgid "Trending Type:"
+msgstr "Trend Tipi:"
+
+#: search.php:23
+msgid "Search Results for: "
+msgstr "Aramanıza göre sonuçlar:"
+
+#: technical-requirements.php:30
+msgid "Boombox requires PHP 5.4 or higher"
+msgstr "Boombox PHP 5.4 ve üzeri gerektirir"
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz, ama aradığınız şeyle eşleşen birşey yok. Lütfen farklı benzer "
+"kelimeler deneyin."
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. "
+msgstr "Görünüşe göre aradığınız şeyi bulamadık.s"
+
+#: template-parts/header/navigation-burger-bottom.php:15
+msgid "sections"
+msgstr "bölümler"
+
+#: template-parts/header/search-box.php:13
+msgid "search and hit enter"
+msgstr "ara ve tıkla"
+
+#: template-parts/popups/registration-form.php:81
+#: template-parts/popups/reset-password-form.php:43
+msgid "Back to "
+msgstr "Geri dön"
+
+#: template-parts/popups/registration-form.php:89
+msgid "terms of use"
+msgstr "kullanım şartları"
+
+#: template-parts/popups/registration-form.php:90
+msgid "privacy policy"
+msgstr "gizlilik sözleşmesi"
+
+#: template-parts/popups/registration-form.php:92
+msgid "and"
+msgstr "ve"
+
+#: template-parts/popups/registration-form.php:101
+#, php-format
+msgid "By signing up, you agree that you have read and accepted %s"
+msgstr "Kaydolarak, okumuş ve kabul etmiş sayılırsınız %s"
+
+#: template-parts/popups/reset-password-form.php:37
+msgid "reset"
+msgstr "sıfırla"
+
+#: template-parts/popups/viralpress-create-post.php:15
+msgid "Choose post type"
+msgstr "Yayın Stili Seçiniz"
+
+#: template-parts/single/reaction-vote.php:28
+msgid "What's Your Reaction?"
+msgstr "Sizin Tepkiniz Nedir?"
+
+#: buddypress/groups/index.php:53
+#, php-format
+msgid "All Groups %s"
+msgstr "Tüm Gruplar %s"
+
+#: buddypress/groups/single/admin.php:213
+msgid "Delete Group Profile Photo"
+msgstr "Grup Profil Resmini Sil"
+
+#: buddypress/groups/single/admin.php:231
+msgid "Crop Profile Photo"
+msgstr "Profil Resmini Kırp"
+
+#: buddypress/groups/single/admin.php:256
+msgid "Change Cover Image"
+msgstr "Kapak Resmini Değiştir"
+
+#: buddypress/groups/single/admin.php:295
+msgid "Administrators"
+msgstr "Yöneticiler"
+
+#: buddypress/groups/single/admin.php:304
+#: buddypress/groups/single/admin.php:334
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Profil Resmi %s"
+
+#: buddypress/groups/single/admin.php:313
+#: buddypress/groups/single/admin.php:346
+msgid "Demote to Member"
+msgstr "Üyeye Bağış Yap"
+
+#: buddypress/groups/single/admin.php:326
+msgid "Moderators"
+msgstr "Moderatorler"
+
+#: buddypress/groups/single/admin.php:345
+#: buddypress/groups/single/admin.php:402
+msgid "Promote to Admin"
+msgstr "Yönetici Yap"
+
+#: buddypress/groups/single/admin.php:359 buddypress/members/index.php:32
+msgid "Members"
+msgstr "Üyeler"
+
+#: buddypress/groups/single/admin.php:392
+msgid "(banned)"
+msgstr "(yasaklı)"
+
+#: buddypress/groups/single/admin.php:396
+msgid "Unban this member"
+msgstr "Bu üyenin yasağını kaldır"
+
+#: buddypress/groups/single/admin.php:396
+msgid "Remove Ban"
+msgstr "Ban Kaldır"
+
+#: buddypress/groups/single/admin.php:401
+msgid "Promote to Mod"
+msgstr "Mod Yap"
+
+#: buddypress/groups/single/admin.php:406
+msgid "Remove this member"
+msgstr "Bu üyeyi kaldır"
+
+#: buddypress/groups/single/admin.php:406
+msgid "Remove from group"
+msgstr "Gruptan kaldır"
+
+#: buddypress/groups/single/admin.php:441
+msgid "This group has no members."
+msgstr "Bu grubun üyesi yok"
+
+#: includes/admin/customizer/settings-rating.php:82
+#: includes/front/front-functions.php:1408
+#: includes/widgets/class-boombox-widget-trending-posts.php:141
+#: includes/widgets/class-boombox-widget-trending-posts.php:169
+msgid "Trending"
+msgstr "Trendler"
+
+#: includes/admin/customizer/settings-rating.php:211
+#: includes/front/front-functions.php:1408
+#: includes/widgets/class-boombox-widget-trending-posts.php:171
+msgid "Hot"
+msgstr "Sıcak"
+
+#: includes/admin/customizer/settings-rating.php:340
+#: includes/front/front-functions.php:1408
+#: includes/widgets/class-boombox-widget-trending-posts.php:173
+msgid "Popular"
+msgstr "Populer"
+
+#: includes/authentication/default/default-auth.php:176
+msgid "Registration"
+msgstr "Kayıt"
+
+#: includes/authentication/default/default-auth.php:208
+msgid "Wrong username or password."
+msgstr "Kullanıcı adı veya şifre yanlış"
+
+#: includes/authentication/default/default-auth.php:217
+msgid " successful, redirecting..."
+msgstr "başarılı, yönlendiriliyor..."
+
+#: includes/authentication/default/default-auth.php:223
+msgid "There is no user registered with that username or email address."
+msgstr "Bu email veya kullanıcı adı ile ilgili kayıtlı üye yok."
+
+#: includes/authentication/default/default-auth.php:245
+msgid "Enter an username or e-mail address."
+msgstr "Kullanıcı adı veya email adresi gir"
+
+#: includes/authentication/default/default-auth.php:253
+msgid "There is no user registered with that email address."
+msgstr "Bu email ile ilgili kayıtlı üye yok."
+
+#: includes/authentication/default/default-auth.php:261
+msgid "There is no user registered with that username."
+msgstr "Bu kullanıcı adı ile ilgili kayıtlı üye yok."
+
+#: includes/authentication/default/default-auth.php:265
+msgid "Invalid username or e-mail address."
+msgstr "Geçersiz email yada kullanıcı adı."
+
+#: includes/authentication/default/default-auth.php:297
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Şifre Sıfırla"
+
+#: includes/authentication/default/default-auth.php:305
+#, php-format
+msgid "Username: %s"
+msgstr "Kullanıcı Adı: %s"
+
+#: includes/authentication/social/social-auth.php:80
+#: includes/authentication/social/social-auth.php:186
+msgid "Login failed"
+msgstr "Başarısız Giriş"
+
+#: includes/authentication/social/social-auth.php:242
+msgid "Email already exists"
+msgstr "Bu email adresi zaten kayıtlı"
+
+#: buddypress/groups/create.php:262 buddypress/groups/single/admin.php:239
+msgid "Crop Image"
+msgstr "Resmi Kırp"
+
+#: buddypress/groups/create.php:429
+msgid "Back to Previous Step"
+msgstr "Önceki Adıma Dön"
+
+#: buddypress/groups/create.php:436
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+#: buddypress/groups/create.php:443
+msgid "Create Group and Continue"
+msgstr "Grup Kur ve Devam Et"
+
+#: buddypress/groups/create.php:450
+msgid "Finish"
+msgstr "Bitti"
+
+#: buddypress/groups/groups-loop.php:71 buddypress/groups/single/home.php:71
+#, php-format
+msgid "active %s"
+msgstr "aktif  %s"
+
+#: buddypress/groups/index.php:41
+msgid "Groups"
+msgstr "Gruplar"
+
+#: buddypress/groups/index.php:41
+msgid "Create a Group"
+msgstr "Grup Kur"
+
+#: buddypress/groups/index.php:93
+msgid "Newly Created"
+msgstr "Yeni Birşey Üret"
+
+#: buddypress/groups/single/admin.php:71 buddypress/groups/single/admin.php:187
+#: buddypress/members/single/settings/general.php:38
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: includes/widgets/class-boombox-widget-create-post.php:31
+msgid "Adds the \"Create Post\" button."
+msgstr "\" İçerik Üret \" butonu ekle"
+
+#: includes/widgets/class-boombox-widget-create-post.php:34
+msgid "Boombox Create Post"
+msgstr "Yeni İçerik Üret"
+
+#: buddypress/groups/create.php:231 buddypress/groups/single/admin.php:202
+msgid "Select an image"
+msgstr "Bir resim seç"
+
+#: buddypress/groups/create.php:234 buddypress/groups/single/admin.php:205
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: buddypress/groups/create.php:254
+msgid "Crop Group Profile Photo"
+msgstr "Grup Profil Resmini Kırp"
+
+#: buddypress/groups/create.php:256 buddypress/groups/single/admin.php:233
+msgid "Profile photo to crop"
+msgstr "Profil resmini kırp"
+
+#: buddypress/groups/create.php:137 buddypress/groups/single/admin.php:141
+msgid "Only users who are invited can join the group."
+msgstr "Sadece davet edilen kullanıcılar gruba katılabilir."
+
+#: buddypress/groups/create.php:138 buddypress/groups/single/admin.php:142
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "Bu grup, gruplar dizininde veya arama sonuçlarında listelenmeyecektir."
+
+#: buddypress/groups/create.php:144 buddypress/groups/single/admin.php:150
+msgid "Group Invitations"
+msgstr "Grup Davetleri"
+
+#: buddypress/groups/create.php:146 buddypress/groups/single/admin.php:152
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Bu grubun hangi üyeleri başkalarını davet etmesine izin verilir?"
+
+#: buddypress/groups/create.php:153 buddypress/groups/single/admin.php:159
+msgid "All group members"
+msgstr "Tüm grup üyeleri"
+
+#: buddypress/groups/create.php:158 buddypress/groups/single/admin.php:165
+msgid "Group admins and mods only"
+msgstr "Grup yöneticisi ve moderatör"
+
+#: buddypress/groups/create.php:164 buddypress/groups/single/admin.php:171
+msgid "Group admins only"
+msgstr "Sadece grup yöneticisi"
+
+#: buddypress/groups/create.php:171
+msgid "Group Forums"
+msgstr "Grup Forumları"
+
+#: buddypress/groups/create.php:175
+msgid "Should this group have a forum?"
+msgstr "Bu grubun bir forumu var mı?"
+
+#: buddypress/groups/create.php:181 buddypress/groups/single/admin.php:96
+msgid "Enable discussion forum"
+msgstr "Tartışma forumu etkinleştir"
+
+#: buddypress/groups/single/request-membership.php:32
+msgid "Send Request"
+msgstr "İstek Gönder"
+
+#: buddypress/groups/single/requests-loop.php:63
+#: buddypress/members/single/friends/requests.php:60
+#: buddypress/members/single/groups/invites.php:49
+msgid "Accept"
+msgstr "Kabul Et"
+
+#: buddypress/groups/single/requests-loop.php:65
+#: buddypress/members/single/friends/requests.php:61
+#: buddypress/members/single/groups/invites.php:50
+msgid "Reject"
+msgstr "Reddet"
+
+#: includes/admin/customizer/customizer.php:183
+msgid "All Rights Reserved"
+msgstr "Tüm hakları saklıdır. idriskarakaya.com"
+
+#: includes/admin/customizer/customizer.php:197
+msgid "community"
+msgstr "topluluğu"
+
+#: includes/admin/customizer/customizer.php:205
+#: includes/front/front-functions.php:2111
+#: includes/widgets/class-boombox-widget-create-post.php:117
+msgid "Create a post"
+msgstr "Yeni İçerik Üret"
+
+#: includes/admin/customizer/customizer.php:290
+#: template-parts/popups/login-form.php:73
+msgid "log in"
+msgstr "giriş"
+
+#: includes/admin/customizer/customizer.php:292
+#: template-parts/popups/registration-form.php:74
+msgid "sign up"
+msgstr "kaydol"
+
+#: includes/admin/customizer/customizer.php:294
+msgid "reset password"
+msgstr "şifreyi sıfırla"
+
+#: includes/authentication/default/default-auth.php:103
+msgid "Login"
+msgstr "Giriş Yap"
+
+#: includes/authentication/social/social-auth.php:79
+msgid "Please wait..."
+msgstr "Lütfen bekleyin..."
+
+#: 404.php:22
+msgid "Oops"
+msgstr "Haydaa"
+
+#: 404.php:27
+msgid "We couldn't find the page you are looking for."
+msgstr "Aradığın sayfayı bulamadım."
+
+#: 404.php:29
+msgid ""
+"It may have expired, or there could be a typo. Maybe you can find what you "
+"need from our homepage."
+msgstr ""
+"Aradığın şeyin süresi dolmuş, silinmiş veya teliften dolayı kaldırılmış "
+"olabilir. Belki istediğin şeyi ana sayfada arayarak bulabilirsiniz."
+
+#: 404.php:32
+msgid "Return To Home"
+msgstr "Ana Sayfaya Dön"
+
+#: buddypress/activity/comment.php:36
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> cevapladı <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: buddypress/activity/comment.php:53
+msgid "Reply"
+msgstr "Cevapla"
+
+#: buddypress/activity/comment.php:59
+#: buddypress/members/single/messages/messages-loop.php:161
+msgid "Delete"
+msgstr "Sil"
+
+#: buddypress/activity/entry.php:65
+msgid "View Conversation"
+msgstr "Görüşmeyi Göster"
+
+#: buddypress/activity/entry.php:73
+#, php-format
+msgid "Comment %s"
+msgstr "Yorum %s"
+
+#: buddypress/activity/entry.php:81
+msgid "Mark as Favorite"
+msgstr "Favori olarak işaretle"
+
+#: buddypress/activity/entry.php:81 buddypress/buddypress-functions.php:295
+#: buddypress/buddypress-functions.php:1175
+#: buddypress/buddypress-functions.php:1193
+msgid "Favorite"
+msgstr "Favori"
+
+#: buddypress/activity/entry.php:85 buddypress/buddypress-functions.php:298
+#: buddypress/buddypress-functions.php:1173
+#: buddypress/buddypress-functions.php:1195
+msgid "Remove Favorite"
+msgstr "Favorilerden Çıkar"
+
+#: buddypress/activity/entry.php:129
+msgid "Comment"
+msgstr "Yorum"
+
+#: buddypress/activity/entry.php:133 comments.php:57
+msgid "Post"
+msgstr "Postala"
+
+#: buddypress/activity/entry.php:133
+msgid "Cancel"
+msgstr "İptal"
+
+#: buddypress/activity/index.php:25 buddypress/activity/single/home.php:13
+#: includes/plugins/buddypress.php:597
+msgid "Activity"
+msgstr "Aktivite"
+
+#: buddypress/activity/index.php:63
+msgid "The public activity for everyone on this site."
+msgstr "Herkese Açık"
+
+#: buddypress/activity/index.php:63 buddypress/members/index.php:55
+#, php-format
+msgid "All Members %s"
+msgstr "Tüm Üyeler %s"
+
+#: buddypress/activity/index.php:80
+msgid "The activity of my friends only."
+msgstr "Sadece Arkadaşlarım"
+
+#: buddypress/activity/index.php:80 buddypress/members/index.php:58
+#, php-format
+msgid "My Friends %s"
+msgstr "Arkadaşlarım %s"
+
+#: buddypress/activity/index.php:99
+msgid "The activity of groups I am a member of."
+msgstr "Sadece Üyesi Olduğum Gruplar İçin"
+
+#: buddypress/activity/index.php:99 buddypress/groups/index.php:56
+#, php-format
+msgid "My Groups %s"
+msgstr "Gruplarım %s"
+
+#: buddypress/activity/index.php:116
+msgid "The activity I've marked as a favorite."
+msgstr "Favori olarak işaretlediklerim için."
+
+#: buddypress/activity/index.php:116
+#, php-format
+msgid "My Favorites %s"
+msgstr "Favorilerim %s"
+
+#: buddypress/activity/index.php:131
+msgid "Activity that I have been mentioned in."
+msgstr "Bahsettiğim Faaliyet."
+
+#: buddypress/activity/index.php:131
+msgid "Mentions"
+msgstr "Bahsedilenler"
+
+#: buddypress/activity/index.php:164 buddypress/groups/single/activity.php:24
+msgid "Show:"
+msgstr "Göster:"
+
+#: buddypress/activity/index.php:166 buddypress/groups/single/activity.php:26
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Herşey &mdash;"
+
+#: buddypress/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "Neler yeni %s, %s?"
+
+#: buddypress/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr "Neler yaptın, %s?"
+
+#: buddypress/activity/post-form.php:32
+msgid "Post what's new"
+msgstr "Yazıda Neler Yeni"
+
+#: buddypress/activity/post-form.php:41
+msgid "Post Update"
+msgstr "Yazı Güncelle"
+
+#: buddypress/activity/post-form.php:48 buddypress/activity/post-form.php:52
+msgid "Post in"
+msgstr "Yazı içinde"
+
+#: buddypress/activity/post-form.php:55
+msgid "My Profile"
+msgstr "Profilim"
+
+#: buddypress/blogs/blogs-loop.php:121
+msgid "Sorry, there were no sites found."
+msgstr "Üzgünüm, Hiçbir site bulunamadı."
+
+#: buddypress/blogs/index.php:29
+msgid "Sites"
+msgstr "Siteler"
+
+#: buddypress/blogs/index.php:54
+#, php-format
+msgid "All Sites %s"
+msgstr "Tüm Siteler %s"
+
+#: buddypress/blogs/index.php:58
+#, php-format
+msgid "My Sites %s"
+msgstr "Sitelerim %s"
+
+#: buddypress/blogs/index.php:102 buddypress/groups/index.php:89
+#: buddypress/members/index.php:91 includes/plugins/buddypress.php:329
+msgid "Order By:"
+msgstr "Tarafından Şipariş:"
+
+#: buddypress/blogs/index.php:104 buddypress/groups/index.php:91
+#: buddypress/members/index.php:93
+msgid "Last Active"
+msgstr "Son aktivite"
+
+#: buddypress/blogs/index.php:105 includes/plugins/buddypress.php:331
+msgid "Newest"
+msgstr "Daha Yeni"
+
+#: buddypress/blogs/index.php:106 buddypress/groups/index.php:94
+#: buddypress/members/index.php:97 includes/plugins/buddypress.php:338
+msgid "Alphabetical"
+msgstr "Alfabetik"
+
+#: buddypress/buddypress-functions.php:291
+msgid "Accepted"
+msgstr "Onaylandı"
+
+#: buddypress/buddypress-functions.php:292
+msgid "Close"
+msgstr "Kapat"
+
+#: buddypress/buddypress-functions.php:293
+#: includes/front/front-functions.php:3441
+msgid "comments"
+msgstr "yorumlar"
+
+#: buddypress/buddypress-functions.php:294
+msgid "Are you sure you want to leave this group?"
+msgstr "Bu gruptan çıkacağına emin misin?"
+
+#: buddypress/buddypress-functions.php:296
+msgid "My Favorites"
+msgstr "Favorilerim"
+
+#: buddypress/buddypress-functions.php:297
+msgid "Rejected"
+msgstr "Reddedildi"
+
+#: buddypress/buddypress-functions.php:299
+msgid "Show all"
+msgstr "Tümünü Göster"
+
+#: buddypress/buddypress-functions.php:300
+msgid "Show all comments for this thread"
+msgstr "Bu konu ile ilgili tüm yorumları göster"
+
+#: buddypress/buddypress-functions.php:301
+#, php-format
+msgid "Show all %d comments"
+msgstr "Tüm %d yorumlarını göster"
+
+#: buddypress/buddypress-functions.php:302
+msgid ""
+"Your profile has unsaved changes. If you leave the page, the changes will be "
+"lost."
+msgstr ""
+"Profilindeki değişiklikler kayıt edilmedi. Eğer bu sayfadan ayrılırsan tüm "
+"değişiklikler kaybolacaktır."
+
+#: buddypress/buddypress-functions.php:303
+msgid "View"
+msgstr "Göster"
+
+#: buddypress/buddypress-functions.php:330
+msgid "Unstar"
+msgstr "Yıldızsız"
+
+#: buddypress/buddypress-functions.php:331
+#: buddypress/members/single/messages/messages-loop.php:80
+msgid "Star"
+msgstr "Yıldız"
+
+#: buddypress/buddypress-functions.php:332
+msgid "Starred"
+msgstr "Yıldızlı"
+
+#: buddypress/buddypress-functions.php:333
+msgid "Not starred"
+msgstr "Yıldız verilmemiş"
+
+#: buddypress/buddypress-functions.php:334
+msgid "Remove all starred messages in this thread"
+msgstr "Bu konu hakkındaki tüm yıldızlı mesajları kaldır."
+
+#: buddypress/buddypress-functions.php:335
+msgid "Star the first message in this thread"
+msgstr "Bu konudaki ilk mesajı yıldızla."
+
+#: buddypress/buddypress-functions.php:899
+msgid "Please enter some content to post."
+msgstr "Lütfen yayınlamak için bir şeyler girin."
+
+#: buddypress/buddypress-functions.php:935
+msgid "There was a problem posting your update. Please try again."
+msgstr "Güncellemenizi gönderirken bir sorun oluştu. Lütfen tekrar deneyin."
+
+#: buddypress/buddypress-functions.php:989
+msgid "There was an error posting your reply. Please try again."
+msgstr "Yanıtınızı gönderirken bir hata oluştu. Lütfen tekrar deneyin."
+
+#: buddypress/buddypress-functions.php:992
+msgid "Please do not leave the comment area blank."
+msgstr "Lütfen açıklama alanını boş bırakmayın."
+
+#: buddypress/buddypress-functions.php:1069
+#: buddypress/buddypress-functions.php:1107
+msgid "There was a problem when deleting. Please try again."
+msgstr "Silinirken bir sorun oluştu. Lütfen tekrar deneyin."
+
+#: buddypress/buddypress-functions.php:1295 buddypress/groups/create.php:366
+#: buddypress/groups/single/invites-loop.php:81
+msgid "Remove Invite"
+msgstr "Davetiyeyi Kaldır"
+
+#: buddypress/buddypress-functions.php:1299
+#, php-format
+msgid ""
+"%s has previously requested to join this group. Sending an invitation will "
+"automatically add the member to the group."
+msgstr ""
+"%s Daha önce bu gruba katılmak istedi.Bir davetiye gönderdiğinizde, üye "
+"otomatik olarak gruba eklenir."
+
+#: buddypress/buddypress-functions.php:1345
+msgid "Friendship could not be canceled."
+msgstr "Arkadaşlık iptal edilemedi."
+
+#: buddypress/buddypress-functions.php:1347
+#: buddypress/buddypress-functions.php:1365
+msgid "Add Friend"
+msgstr "Arkadaş Ekle"
+
+#: buddypress/buddypress-functions.php:1355
+msgid " Friendship could not be requested."
+msgstr "Arkadaşlık gönderilemez."
+
+#: buddypress/buddypress-functions.php:1357
+msgid "Cancel Friendship Request"
+msgstr "Arkadaşlık İsteğini İptal Et"
+
+#: buddypress/buddypress-functions.php:1367
+msgid "Friendship request could not be cancelled."
+msgstr "Arkadaşlık isteği iptal edilemedi."
+
+#: buddypress/buddypress-functions.php:1372
+msgid "Request Pending"
+msgstr "Bekleyen İstek"
+
+#: buddypress/buddypress-functions.php:1393
+msgid "There was a problem accepting that request. Please try again."
+msgstr "Bu isteği kabul ederken bir sorun oluştu. Lütfen tekrar deneyin."
+
+#: buddypress/buddypress-functions.php:1413
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "Bu isteği red ederken bir sorun oluştu. Lütfen tekrar deneyin."
+
+#: buddypress/buddypress-functions.php:1444
+msgid "Error joining group"
+msgstr "Gruba Katılma Hatası"
+
+#: buddypress/buddypress-functions.php:1446
+#: buddypress/buddypress-functions.php:1459
+msgid "Leave Group"
+msgstr "Gruptan Ayrıl"
+
+#: buddypress/buddypress-functions.php:1457
+#: buddypress/buddypress-functions.php:1467
+msgid "Error requesting membership"
+msgstr "Üyelik istemekte hata oluştu"
+
+#: buddypress/buddypress-functions.php:1469
+msgid "Request Sent"
+msgstr "İstek Gönder"
+
+#: buddypress/buddypress-functions.php:1478
+msgid "Error leaving group"
+msgstr "Gruptan Ayrılma Hatası"
+
+#: buddypress/buddypress-functions.php:1480
+msgid "Join Group"
+msgstr "Gruba Katıl"
+
+#: buddypress/buddypress-functions.php:1482
+msgid "Request Membership"
+msgstr "Üyelik İsteği"
+
+#: buddypress/buddypress-functions.php:1502
+msgid "There was a problem closing the notice."
+msgstr "Duyuru kapanırken bir sorun oluştu."
+
+#: buddypress/buddypress-functions.php:1565
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Bu yanıtı gönderirken bir sorun oluştu. Lütfen tekrar deneyin."
+
+#: buddypress/buddypress-functions.php:1584
+msgid "There was a problem marking messages as unread."
+msgstr "İletiler okunmamış olarak işaretlenirken bir sorun oluştu."
+
+#: buddypress/buddypress-functions.php:1610
+msgid "There was a problem marking messages as read."
+msgstr "İletilerin okundu olarak işaretlenmesi ile ilgili bir sorun oluştu."
+
+#: buddypress/buddypress-functions.php:1636
+msgid "There was a problem deleting messages."
+msgstr "İletiler silinirken bir sorun oluştu."
+
+#: buddypress/buddypress-functions.php:1642
+msgid "Messages deleted."
+msgstr "Mesajlar Silindi."
+
+#: buddypress/groups/create.php:67 buddypress/groups/single/admin.php:39
+msgid "Group Name (required)"
+msgstr "Grup Adı (zorunlu)"
+
+#: buddypress/groups/create.php:72 buddypress/groups/single/admin.php:42
+msgid "Group Description (required)"
+msgstr "Grup Açıklaması (zorunlu)"
+
+#: buddypress/groups/create.php:102 buddypress/groups/single/admin.php:106
+msgid "Privacy Options"
+msgstr "Gizlilik Seçenekleri"
+
+#: buddypress/groups/create.php:109 buddypress/groups/single/admin.php:113
+msgid "This is a public group"
+msgstr "Bu herkese açık gruptur."
+
+#: buddypress/groups/create.php:113 buddypress/groups/single/admin.php:117
+msgid "Any site member can join this group."
+msgstr "Herhangi bir üye bu gruba katılabilir."
+
+#: buddypress/groups/create.php:114 buddypress/groups/create.php:126
+#: buddypress/groups/single/admin.php:118
+#: buddypress/groups/single/admin.php:130
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Bu grup gruplar dizininde ve arama sonuçlarında listelenir."
+
+#: buddypress/groups/create.php:115 buddypress/groups/single/admin.php:119
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"Grup içeriği ve etkinliği herhangi bir site üyesi tarafından görülecektir."
+
+#: buddypress/groups/create.php:122 buddypress/groups/single/admin.php:125
+msgid "This is a private group"
+msgstr "Bu özel bir grup"
+
+#: buddypress/groups/create.php:125 buddypress/groups/single/admin.php:129
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Yalnızca üyelik talep eden ve kabul edilen kullanıcılar gruba katılabilir."
+
+#: buddypress/groups/create.php:127 buddypress/groups/create.php:139
+#: buddypress/groups/single/admin.php:131
+#: buddypress/groups/single/admin.php:143
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Grup içeriği ve etkinliği yalnızca grubun üyeleri tarafından görülebilir."
+
+#: buddypress/groups/create.php:134 buddypress/groups/single/admin.php:137
+msgid "This is a hidden group"
+msgstr "Bu gizli bir grup"
+
+#: buddypress/members/register.php:75
+msgid "Account Details"
+msgstr "Hesap Detayları"
+
+#: buddypress/members/register.php:86
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: buddypress/members/register.php:96
+msgid "Email Address"
+msgstr "Email Adresi"
+
+#: buddypress/members/register.php:106
+msgid "Choose a Password"
+msgstr "Şifre Yaz"
+
+#: buddypress/members/register.php:117
+msgid "Confirm Password"
+msgstr "Tekrar Şifreni Yaz"
+
+#: buddypress/members/register.php:154
+msgid "Profile Details"
+msgstr "Profil Detayları"
+
+#: buddypress/members/register.php:264
+msgid "Blog Details"
+msgstr "Blog Detayları"
+
+#: buddypress/members/register.php:270 buddypress/members/register.php:286
+msgid "(required)"
+msgstr "(zorunlu)"
+
+#: buddypress/members/register.php:286
+msgid "Site Title"
+msgstr "Site Başlığı"
+
+#: buddypress/members/register.php:307 includes/plugins/buddypress.php:598
+#: includes/plugins/buddypress.php:680 includes/plugins/buddypress.php:765
+#: includes/plugins/buddypress.php:834
+msgid "Yes"
+msgstr "Evet"
+
+#: buddypress/members/register.php:308 includes/plugins/buddypress.php:599
+#: includes/plugins/buddypress.php:681 includes/plugins/buddypress.php:766
+#: includes/plugins/buddypress.php:835
+msgid "No"
+msgstr "Hayır"
+
+#: buddypress/members/register.php:348
+msgid "Complete Sign Up"
+msgstr "Kaydı Tamamla"
+
+#: buddypress/members/single/messages/messages-loop.php:59
+msgid "Select all"
+msgstr "Tümünü seç"
+
+#: buddypress/members/single/notifications/notifications-loop.php:20
+msgid "Select All Notifications"
+msgstr "Tüm Bildirimleri Seç"
+
+#: buddypress/members/single/notifications/notifications-loop.php:24
+msgid "Notification"
+msgstr "Bildirim"
+
+#: buddypress/members/single/notifications/notifications-loop.php:25
+msgid "Date Received"
+msgstr "Alınan Tarih"
+
+#: buddypress/members/single/settings/general.php:19
+msgid "Account Email"
+msgstr "Hesap Emaili"
+
+#: buddypress/members/single/settings/general.php:22
+msgid "New Password <span>(leave blank for no change)</span>"
+msgstr "Yeni Şifre (değiştirmek istemiyorsan boş bırak)"
+
+#: buddypress/members/single/settings/general.php:26
+msgid "Repeat New Password"
+msgstr "Yeni Şifreni Tekrar Gir"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: comments.php:42
+msgid "Name *"
+msgstr "Adın *"
+
+#: comments.php:47
+msgid "Email *"
+msgstr "Email *"
+
+#: comments.php:59
+#, php-format
+msgid ""
+"You must be <a href=\"%s\" class=\"js-authentication\">logged in</a> to post "
+"a comment."
+msgstr "Yorum yazmak için giriş yapman lazım."
+
+#: comments.php:62
+msgid "Write a comment *"
+msgstr "Yorum yaz *"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı"
+
+#: includes/admin/customizer/customizer.php:661
+msgid "Load More"
+msgstr "Daha Fazla Yükle"
+
+#: includes/admin/customizer/customizer.php:665
+msgid "Next/Prev Buttons"
+msgstr "Sonraki/Önceki Butonları"
+
+#: includes/admin/customizer/customizer.php:869
+msgid "Show"
+msgstr "Göster"
+
+#: includes/admin/customizer/customizer.php:870
+msgid "Hide"
+msgstr "Gizle"
+
+#: includes/admin/customizer/customizer.php:881
+#: includes/admin/customizer/design-header.php:419
+#: includes/admin/customizer/design-header.php:444
+msgid "Small"
+msgstr "Küçük"
+
+#: includes/admin/customizer/customizer.php:882
+#: includes/admin/customizer/design-header.php:420
+#: includes/admin/customizer/design-header.php:445
+msgid "Big"
+msgstr "Büyük"
+
+#: includes/admin/customizer/customizer.php:893
+msgid "Inside"
+msgstr "İçeri"
+
+#: includes/admin/customizer/customizer.php:894
+msgid "Outside"
+msgstr "Dışarı"
+
+#: includes/admin/customizer/design-badges.php:154
+msgid "Face"
+msgstr "Yüz"
+
+#: includes/admin/customizer/design-badges.php:155
+msgid "Text"
+msgstr "Yazı"
+
+#: includes/admin/customizer/design-footer.php:19
+msgid "Footer"
+msgstr "Alt Kısım"
+
+#: includes/admin/customizer/design-header.php:314
+msgid "Social Position"
+msgstr "Sosyal Butonların Yerleri"
+
+#: includes/admin/customizer/layout-page.php:19
+msgid "Page"
+msgstr "Sayfa"
+
+#: includes/front/front-functions.php:1923
+msgid "Like it? Share with your friends!"
+msgstr "Beğendin mi? Arkadaşlarınla Paylaş O Zaman!"
+
+#: includes/front/front-functions.php:1976
+msgid "News"
+msgstr "Haber"
+
+#: includes/front/front-functions.php:1987
+msgid "Image"
+msgstr "Resim"
+
+#: includes/front/front-functions.php:2038
+msgid "Audio"
+msgstr "Ses"
+
+#: includes/front/front-functions.php:2051
+msgid "Gallery"
+msgstr "Galeri"
+
+#: includes/front/front-functions.php:2061
+msgid "Playlist"
+msgstr "Oynatma Listesi"
+
+#: includes/front/front-functions.php:2171
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: includes/front/front-functions.php:2175
+msgid "Profile"
+msgstr "Profil"
+
+#: includes/front/front-functions.php:2179
+msgid "My Posts"
+msgstr "Yazılarım"
+
+#: includes/front/front-functions.php:2191
+msgid "Log out"
+msgstr "Çıkış"
+
+#: includes/front/front-functions.php:2275
+msgid "Log Out"
+msgstr "Çıkış"
+
+#: includes/front/front-functions.php:2448
+#: template-parts/pagination/pagination-next_prev.php:22
+#: template-parts/pagination/pagination-next_prev.php:23
+#: template-parts/pagination/pagination.php:27
+#: template-parts/single/next-prev-buttons.php:23
+#: template-parts/single/next-prev-buttons.php:25
+msgid "Previous"
+msgstr "Önceki"
+
+#: includes/front/front-functions.php:2449
+#: template-parts/pagination/pagination-next_prev.php:30
+#: template-parts/pagination/pagination-next_prev.php:31
+#: template-parts/pagination/pagination.php:28
+#: template-parts/single/fixed-header.php:27
+#: template-parts/single/next-prev-buttons.php:24
+#: template-parts/single/next-prev-buttons.php:26
+msgid "Next"
+msgstr "Sonraki"
+
+#: includes/front/front-functions.php:2468
+msgid "LIKE WHAT YOU'RE READING?"
+msgstr "OKUDUĞUN GİBİ Mİ?"
+
+#: includes/front/front-functions.php:2807
+#: includes/front/front-functions.php:2811
+msgid "ago"
+msgstr "önce"
+
+#: includes/front/front-functions.php:2911
+#: includes/front/front-functions.php:3000
+#: includes/front/front-functions.php:3119
+msgid "Posted by"
+msgstr "Tarafından"
+
+#: includes/front/front-functions.php:2911
+#: includes/front/front-functions.php:3000 template-parts/featured-area.php:67
+msgid "By"
+msgstr "Tarafından"
+
+#: includes/front/front-functions.php:3144
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: includes/front/front-functions.php:3152
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: includes/front/front-functions.php:3153
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: includes/front/front-functions.php:3154
+msgid "Previous post"
+msgstr "Önceki yazı"
+
+#: includes/front/front-functions.php:3155
+msgid "Next post"
+msgstr "Sonraki yazı"
+
+#: includes/front/front-functions.php:3691
+msgid "Check it"
+msgstr "Bak bi"
+
+#: includes/plugins/buddypress.php:764
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: includes/plugins/buddypress.php:772
+msgid "A member sends you a new message"
+msgstr "Biri sana mesaj gönderdi"
+
+#: includes/plugins/buddypress.php:1004
+msgid "View all"
+msgstr "Tümünü göster"
+
+#: includes/plugins/buddypress.php:1025
+msgid "Logout"
+msgstr "Çıkış"
+
+#: includes/rate-and-vote-restrictions/rate/rate.php:17
+msgid "All time"
+msgstr "Tüm zaman"
+
+#: includes/widgets/class-boombox-widget-sidebar-footer.php:152
+msgid "Select Menu"
+msgstr "Menü Seç"
+
+#: includes/widgets/class-boombox-widget-sidebar-footer.php:155
+msgid "Select"
+msgstr "Seç"
+
+#: technical-requirements.php:30
+#, php-format
+msgid "Your Version %s"
+msgstr "Versiyon %s"
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "Hiçbir şey Bulunamadı"
+
+#: template-parts/pagination/pagination-infinite_scroll.php:17
+#: template-parts/pagination/pagination-infinite_scroll_on_demand.php:17
+#: template-parts/pagination/pagination-load_more.php:17
+msgid "Load more"
+msgstr "Daha fazla yükle"
+
+#: template-parts/popups/header-share.php:16
+msgid "Connect with us"
+msgstr "Bizimle bağlantı kur"
+
+#: template-parts/popups/login-form.php:47
+#: template-parts/popups/reset-password-form.php:34
+msgid "Your username or e-mail"
+msgstr "Kullanıcı adın veya email adresin"
+
+#: template-parts/popups/login-form.php:51
+#: template-parts/popups/registration-form.php:56
+msgid "Your password"
+msgstr "Şifren"
+
+#: template-parts/popups/login-form.php:53
+msgid "Forgot password?"
+msgstr "Şifremi unuttum?"
+
+#: template-parts/popups/login-form.php:81
+msgid "Don't have an account?"
+msgstr "Hesabın yok mu?"
+
+#: template-parts/popups/registration-form.php:48
+msgid "Your e-mail address"
+msgstr "Email adresin"
+
+#: template-parts/popups/registration-form.php:52
+msgid "Your username"
+msgstr "Kullanıcı adın"
+
+#: template-parts/single/fixed-header.php:29
+#: template-parts/single/navigation.php:41
+#: template-parts/single/next-prev-buttons.php:26
+msgid "Next Post"
+msgstr "Sonraki Yazı"
+
+#: template-parts/single/navigation.php:19
+#: template-parts/single/next-prev-buttons.php:25
+msgid "Previous Post"
+msgstr "Önceki Yazı"
+
+#: template-parts/single/next-prev-buttons.php:23
+msgid "Previous Page"
+msgstr "Önceki Sayfa"
+
+#: template-parts/single/next-prev-buttons.php:24
+msgid "Next Page"
+msgstr "Sonraki Sayfa"
+
+#. Theme Name of the plugin/theme
+msgid "Boombox"
+msgstr "Türkçeleştirme"
+
+#. Theme URI of the plugin/theme
+msgid "http://boombox.px-lab.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Boombox is most powerful and flexible viral and buzz style WordPress theme. "
+"Flexible and fully customizable viral magazine theme combined with most "
+"powerful Viral content plugin with a ton of snacks and exclusive features "
+"and all that packed with dozens of powerful and popular plugins and with top-"
+"notch design"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Px-Lab"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://px-lab.com"
+msgstr ""
